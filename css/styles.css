@@ -4,3 +4,6 @@
   float: right;
   width: 300px;
 }
+.float-left {
+  float: left;
+}
