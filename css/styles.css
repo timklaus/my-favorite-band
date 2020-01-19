@@ -14,3 +14,7 @@
 .float-left {
   float: left;
 }
+.tour-headline {
+  font-size: 150%;
+  font-weight: bolder;
+}
