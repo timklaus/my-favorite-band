@@ -1,8 +1,15 @@
 .sidebar {
-  color: red;
-  background-color: lightblue;
+  color: whitesmoke;
+  background-color: darkslategray;
   float: right;
   width: 300px;
+  margin: 10px;
+  border: 1px solid gray;
+  padding: 20px;
+  border-bottom-left-radius: 10%;
+  border-bottom-right-radius: 10%;
+  border-top-left-radius: 10%;
+  border-top-right-radius: 10%;
 }
 .float-left {
   float: left;
